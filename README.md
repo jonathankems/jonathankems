@@ -1,7 +1,6 @@
 ## Hi, I'm Jonathan
 
-I build AI agents that handle support and engineering work at [Snappedly](https://snappedly.com). My focus is making them dependable: they check a report before they act on it, find the root cause before they change code, and stop for a person at the steps that matter.
-
+I build AI agents that handle support and engineering work at [Snappedly](https://snappedly.com).
 [snappedly.com](https://snappedly.com) · [X @jonathankemsley](https://x.com/jonathankemsley)
 
 ### What I'm building
